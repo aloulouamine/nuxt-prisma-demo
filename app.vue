@@ -32,6 +32,8 @@
 </template>
 <script setup lang="ts">
 
+import { StarIcon } from '@heroicons/vue/24/solid' 
+
 const reviews = [
   {
     id: 1,
